@@ -1,8 +1,12 @@
+:root{
+    --preto: #bd88ee;
+}
+
 body{
     background-color: antiquewhite
-    color pink;
+    color var(--preto);
 }
 
 img{
-    width: 20%
+    width: 20%;
 }
