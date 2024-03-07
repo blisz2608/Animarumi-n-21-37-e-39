@@ -4,7 +4,7 @@
 }
 
 body{
-    background: var(--roxo);
+    background-color: var(--roxo);
     color: var(--preto)
 }
 
