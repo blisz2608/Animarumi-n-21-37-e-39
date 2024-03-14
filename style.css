@@ -20,3 +20,7 @@ header{
 .img-ovelhinha{
     width: 20%;
 }
+
+.ovelhinha{
+    display: flex;
+}
