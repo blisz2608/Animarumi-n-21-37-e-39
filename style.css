@@ -22,5 +22,6 @@ header{
 }
 
 .ovelhinha{
-    display: flex;
+    display: flex; 
+    align-items: center;
 }
