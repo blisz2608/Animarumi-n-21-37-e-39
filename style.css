@@ -34,11 +34,11 @@ header{
     border: 3px solid;
     margin: 20px;
     padding: 20px;
+    background-color: mediumslateblue;
 }
 
 .foto-equipe{
     width: 30%;
     border: 3px solid;
     border-radius: 30px;
-    background-color: mediumslateblue;
 }
