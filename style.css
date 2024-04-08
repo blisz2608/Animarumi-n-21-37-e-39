@@ -19,9 +19,6 @@ header{
     background-color: aliceblue;
     margin: 20px;
 }
-.img-ursinho{
-    width: 10%;
-}
 
 .ursinho{
     display: flex; 
@@ -39,3 +36,6 @@ header{
     padding: 20px;
 }
 
+.foto-equipe{
+    width: 30%;
+}
