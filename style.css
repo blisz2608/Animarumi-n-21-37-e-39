@@ -5,7 +5,8 @@
 
 body{
     background-color: (var(--roxo));
-    color: var(--preto)
+    color: var(--preto);
+    margin: 0px;
 }
 
 img{
@@ -17,7 +18,7 @@ header{
     justify-content: space-evenly;
     align-items: center;
     background-color: aliceblue;
-    margin: 20px;
+    margin: 0px;
 }
 
 .ursinho{
