@@ -9,6 +9,9 @@ body{
     margin: 0px;
 }
 
+img{
+    width: 10%;
+}
 
 header{
     display: flex;
