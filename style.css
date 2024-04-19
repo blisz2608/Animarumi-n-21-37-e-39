@@ -13,16 +13,16 @@ img{
 }
 
 header{
-    display: block;
+    display: flex;
     justify-content: space-evenly;
     align-items: center;
     background-color: aliceblue;
     margin: 20px;
-    text-align: center;
 }
 
 .ursinho{
-    display: flex; 
+    display: block; 
+    text-align: center;
     align-items: center;
     justify-content: space-evenly;
 }
