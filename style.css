@@ -9,9 +9,6 @@ body{
     margin: 0px;
 }
 
-img{
-    width: 10%;
-}
 
 header{
     display: flex;
@@ -26,11 +23,13 @@ header{
     text-align: center;
     align-items: center;
     justify-content: space-evenly;
+    margin: 20px;
 }
 
 .apresentaçao{
     font-size: smaller;
     font-style: oblique;
+margin: 20px;
 }
 .equipe{
     display: grid;
@@ -47,4 +46,5 @@ header{
     width: 30%;
     border: 3px solid;
     border-radius: 30px;
+margin: 20px;
 }
