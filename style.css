@@ -27,6 +27,10 @@ header{
     justify-content: space-evenly;
 }
 
+.apresentaçao{
+    font-size: smaller;
+    font-style: oblique;
+}
 .equipe{
     display: grid;
     grid-template-columns: 33% 33% 33%;
