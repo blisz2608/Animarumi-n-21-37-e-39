@@ -16,6 +16,9 @@ img{
     border-radius: 10px;
 }
 
+.bixinhos{
+    margin: 20px;
+}
 header{
     display: flex;
     justify-content: space-evenly;
