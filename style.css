@@ -25,6 +25,8 @@ body{
 .preço{
     display: flex;
     align-items: center;
+}
+R1{
     font-size: larger;
 }
 .bixinhos{
