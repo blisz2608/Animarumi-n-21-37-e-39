@@ -70,6 +70,9 @@ margin: 20px;
 .anuncio{
     display: block;
 }
+.img-anuncio{
+    width: 20%;
+}
 
 .foto-equipe{
     width: 30%;
