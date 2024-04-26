@@ -31,7 +31,9 @@ header{
     background-color: antiquewhite;
     margin: 0px;
 }
-
+hr{
+    border: solid 2px antiquewhite;
+}
 .ursinho{
     display: block; 
     text-align: center;
