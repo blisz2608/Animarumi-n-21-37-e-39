@@ -75,11 +75,11 @@ margin: 20px;
 }
 .anuncio{
     display: grid;
-    width: 130%;
 }
 .img-anuncio{
     width: 40%;
     margin: 15px;
+    width: 130%;
 }
 
 .foto-equipe{
