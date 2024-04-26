@@ -31,6 +31,8 @@ R1{
 }
 .bixinhos{
     margin: 20px;
+    align-items: center;
+    display: flex;
 }
 header{
     display: flex;
@@ -64,6 +66,9 @@ margin: 20px;
     margin: 20px;
     padding: 20px;
     background-color: antiquewhite;
+}
+.anuncio{
+    display: block;
 }
 
 .foto-equipe{
