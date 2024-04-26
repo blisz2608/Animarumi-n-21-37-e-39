@@ -34,7 +34,7 @@ R1{
     align-items: center;
     display: grid;
     text-align: center;
-    grid-template-columns: 70% 70%;
+    grid-template-columns: 65% 65%;
 }
 header{
     display: flex;
@@ -55,6 +55,7 @@ hr{
 }
 .bixinhos-anuncio{
     text-align: initial;
+    width: 160%;
 }
 
 .apresentaçao{
@@ -74,6 +75,7 @@ margin: 20px;
 }
 .anuncio{
     display: grid;
+    width: 130%;
 }
 .img-anuncio{
     width: 40%;
