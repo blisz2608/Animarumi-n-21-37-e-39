@@ -34,7 +34,7 @@ R1{
     align-items: center;
     display: grid;
     text-align: center;
-    grid-template-columns: 65% 65%;
+    grid-template-columns: 65% 35%;
 }
 header{
     display: flex;
