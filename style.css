@@ -15,7 +15,12 @@ img{
     border-color: antiquewhite;
     border-radius: 10px;
 }
-
+.img-ursinho{
+    width: 10%;
+    border: solid;
+    border-color: antiquewhite;
+    border-radius: 50%;
+}
 .bixinhos{
     margin: 20px;
 }
