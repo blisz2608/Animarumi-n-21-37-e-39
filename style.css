@@ -54,6 +54,9 @@ hr{
     justify-content: space-evenly;
     margin: 20px;
 }
+.texto-frete{
+    border: 4px solid gainsboro;
+}
 .bixinhos-anuncio{
     text-align: initial;
     width: 150%;
