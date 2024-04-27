@@ -85,7 +85,7 @@ margin: 20px;
     display: grid;
 }
 .imagem-zap{
-    width: 20px;
+    width: 40px;
 }
 .img-anuncio{
     width: 40%;
@@ -107,4 +107,5 @@ border-color: rosybrown;
 footer{
     margin: 0%;
     background-color: antiquewhite;
+    display: block;
 }
