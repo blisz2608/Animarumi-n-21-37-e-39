@@ -86,6 +86,7 @@ margin: 20px;
 }
 .imagem-zap{
     width: 40px;
+    margin: 15px;
 }
 .img-anuncio{
     width: 40%;
@@ -93,7 +94,7 @@ margin: 20px;
     width: 50%;
 }
 p{
-    margin: 0px;
+    margin: 15px;
     font-size: 20px;
 }
 
@@ -111,4 +112,5 @@ footer{
 }
 .termina-logo-porra{
     display: grid;
+    margin: 15px;
 }
