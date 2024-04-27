@@ -58,6 +58,7 @@ hr{
     border: 4px solid gainsboro;
     margin-right: 230px;
     margin-left: 15px;
+    border-radius: 8px;
 }
 .bixinhos-anuncio{
     text-align: initial;
