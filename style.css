@@ -89,6 +89,9 @@ margin: 20px;
     margin: 15px;
     width: 50%;
 }
+p{
+    margin: 0px;
+}
 
 .foto-equipe{
     width: 30%;
